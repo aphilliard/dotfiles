@@ -1,0 +1,18 @@
+fg:         474751
+bg:         f1f1f1
+black:      595965
+gray:       6e6e7d
+red:        98463f
+lt red:     d66159
+green:      4b644e
+lt green:   6c8f6f
+yellow:     666b36
+lt yellow:  828d1f
+blue:       166787
+lt blue:    1f90bc
+purple:     58416b
+lt purple:  8966a8
+cyan:       35697e
+lt cyan:    298ea7
+lt gray:    8b8b9e
+white:      c7c7e1

@@ -1,0 +1,18 @@
+fg:         2e2c37
+bg:         ffffff
+black:      2e2c37
+gray:       5d616c
+red:        933b3a
+lt red:     ff6565
+green:      458459
+lt green:   5aad74
+yellow:     a78618
+lt yellow:  d3ac00
+blue:       344b91
+lt blue:    427dbd
+purple:     bf553b
+lt purple:  e79235
+cyan:       598b90
+lt cyan:    679f93
+lt gray
+white:
